@@ -18,7 +18,7 @@ const Main = () => {
             {/* <Skills /> */}
             {/* <Projects /> */}
             <Experience /> 
-            <Projects />
+            {/* <Projects /> */}
             <Awards />
             <Contact />
             {/* Background component */}

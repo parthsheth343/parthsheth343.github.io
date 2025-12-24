@@ -13,7 +13,7 @@ import { HamburgerIcon, CloseIcon } from '@chakra-ui/icons'
 import { Link as ScrollLink } from 'react-scroll'
 import { ColorModeSwitcher } from '../../ColorModeSwitcher'
 
-const Links = ['Home', 'About me', 'Experience', 'Projects', 'Awards', 'Contact']
+const Links = ['Home', 'About me', 'Experience', 'Awards', 'Contact']
 
 const NavLink = ({
     children,
