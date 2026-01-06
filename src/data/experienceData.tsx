@@ -8,7 +8,7 @@ import cphoLOGO from '../media/CPHO.png'
 import yscLOGO from '../media/YouthScienceCanada.png'
 import acmLOGO from '../media/stanfordACM.png'
 import jsLOGO from '../media/janestreet.png'
-
+//
 export const experienceData: ExperienceData[] = [
     {
         title: 'MLab Researcher',
