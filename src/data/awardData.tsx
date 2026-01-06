@@ -6,13 +6,13 @@ export const awardData: AwardData[] = [
         organization: 'Canadian Physics Olympiad',
         date: '2025',
         description: 'Placed 6th in Canada at the Canadian Physics Olympiad Selection Camp, leading to selection as Team Canada Alternate for the 2025 International Physics Olympiad.'
-    },//
+    },
     {
         title: 'USAMO Qualifier',
         organization: 'MAA',
         date: '2025',
         description: 'Ranked among the top 250 math students in the United States based on cumulative performance across the AMC and AIME exams, qualifying for the USA Math Olympiad.'
-    },
+    },//
     {
         title: 'IOAA Silver & Bronze Medals',
         organization: 'IOAA',
