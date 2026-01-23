@@ -12,7 +12,7 @@ export const awardData: AwardData[] = [
         organization: 'MAA',
         date: '2025',
         description: 'Ranked among the top 250 math students in the United States based on cumulative performance across the AMC and AIME exams, qualifying for the USA Math Olympiad.'
-    },//////
+    },////
     {
         title: 'IOAA Silver & Bronze Medals',
         organization: 'IOAA',
